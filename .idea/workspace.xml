@@ -39,11 +39,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Core" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/Core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Core" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -57,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604220812091</updated>
       <workItem from="1604220813147" duration="2805000" />
-      <workItem from="1604226702227" duration="2055000" />
+      <workItem from="1604226702227" duration="2298000" />
     </task>
     <servers />
   </component>
@@ -69,6 +69,10 @@
       <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="729" y="437" key="ComposerInitDialogKey/0.23.1920.990@0.23.1920.990" timestamp="1604226758845" />
+    <state x="778" y="444" key="Github.CreateGistDialog" timestamp="1604229265430">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="778" y="444" key="Github.CreateGistDialog/0.23.1920.993@0.23.1920.993" timestamp="1604229265430" />
     <state x="548" y="260" key="IDE.errors.dialog" timestamp="1604226665332">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
