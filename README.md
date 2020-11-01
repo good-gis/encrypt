@@ -23,4 +23,4 @@ php run.php [слово на русском] [ключ1] [ключ2] //напр�
 
 пример вывода можно скопировать в контрольную и задача решена
 ![Image alt](https://github.com/good-gis/encryptCaesar/blob/main/src/1.jpg)
-![Image alt](https://github.com/good-gis/encryptCaesar/blob/main/src/2.jpg)
+![Image alt](https://github.com/good-gis/encryptCaesar/blob/main/src/2.png)
