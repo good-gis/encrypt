@@ -17,4 +17,4 @@ php run.php [слово на русском] [ключ] //например php r
 ```
 
 пример вывода можно скопировать в контрольную и задача решена
-(!img)[https://github.com/good-gis/encryptCaesar/blob/main/src/1.jpg]
+[!img](https://github.com/good-gis/encryptCaesar/blob/main/src/1.jpg)
