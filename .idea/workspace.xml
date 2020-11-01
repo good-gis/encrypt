@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0887511-bb88-4323-b7be-429bdee7277a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jgLVVUcgUxjcbynn7UMm0ff4RE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Core" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Core" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Core" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0887511-bb88-4323-b7be-429bdee7277a" name="Default Changelist" comment="" />
+      <created>1604220812091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604220812091</updated>
+      <workItem from="1604220813147" duration="2805000" />
+      <workItem from="1604226702227" duration="1521000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="729" y="437" key="ComposerInitDialogKey" timestamp="1604226758845">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="729" y="437" key="ComposerInitDialogKey/0.23.1920.990@0.23.1920.990" timestamp="1604226758845" />
+    <state x="548" y="260" key="IDE.errors.dialog" timestamp="1604226665332">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="548" y="260" key="IDE.errors.dialog/0.23.1920.990@0.23.1920.990" timestamp="1604226665332" />
+    <state x="763" y="251" key="NewPhpClassDialog" timestamp="1604220919106">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="763" y="251" key="NewPhpClassDialog/0.23.1920.990@0.23.1920.990" timestamp="1604220919106" />
+    <state x="783" y="448" key="NewPhpFileDialog" timestamp="1604226255341">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="783" y="448" key="NewPhpFileDialog/0.23.1920.990@0.23.1920.990" timestamp="1604226255341" />
+    <state x="469" y="157" key="SettingsEditor" timestamp="1604226709658">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="469" y="157" key="SettingsEditor/0.23.1920.990@0.23.1920.990" timestamp="1604226709658" />
+  </component>
+</project>

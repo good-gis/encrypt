@@ -1,0 +1,20 @@
+{
+  "name": "ivanglushkov/encryptCaesar",
+  "description": "Caesar encrypt",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ivan Gluskov",
+      "email": "glushkov1997@icloud.com"
+    }
+  ],
+  "require": {
+    "php": "7.4.*",
+    "ext-mbstring": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src//"
+    }
+  }
+}
